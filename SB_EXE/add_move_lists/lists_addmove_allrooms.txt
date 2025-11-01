@@ -1,0 +1,8 @@
+Bedroom,Basement
+Bedroom,Shrine Room (Left),Shrine Room (Right)
+Living Room,Alchemy Laboratory
+Master Bedroom
+Master Bedroom (Floor 1),Master Bedroom (Floor 2),Child Room
+Bedroom (Left),Bedroom (Right),Dining Area
+Bedroom,Basement
+Bedroom,Landing,Dining Room,Basement
