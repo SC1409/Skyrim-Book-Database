@@ -1,0 +1,5 @@
+1) When running the program for the first time, you can add your first house by selecting 'Add House' in the settings menu in the toolbar. Houses are currently limited to 4 rooms but this has not personally been an issue for me thus far.
+
+2) Clicking on the table headers will sort the column alphabetically a-z, clicking on it again will reverse it.
+
+3) Right Clicking on a title/house/room will copy the selected text.
